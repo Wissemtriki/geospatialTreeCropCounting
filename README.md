@@ -14,6 +14,9 @@ This project was developed during my summer internship at AVIONAV Tunisia, a com
 ###  Photo 3
 ![AI Tracking](https://github.com/Wissemtriki/geospatialTreeCropCounting/blob/main/Capture%20d'%C3%A9cran%202025-11-21%20213246.png)
 
+###  Photo 4
+![AI Tracking](https://github.com/Wissemtriki/geospatialTreeCropCounting/blob/main/geospatialCropCounting.PNG)
+
 ---
 
 ## Features
